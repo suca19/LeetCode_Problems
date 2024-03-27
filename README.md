@@ -8,4 +8,5 @@ All the problems that you find on this list were solved using the format javaScr
 
 
 * [Two Sum](https://gist.github.com/suca19/2f95a2958168c6ce01e91061cbe3fa14)
+* [Palindrome Number](https://gist.github.com/suca19/e42d1af01b9543bae3a045d7019be95a)
 
