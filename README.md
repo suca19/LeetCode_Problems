@@ -2,7 +2,7 @@
 
 Hello there, 
 
-This repository is made for learning purpose.
+This repository is made for learning purposes.
 
 All the problems that you find on this list were solved using the format javaScript and typeScript.
 
