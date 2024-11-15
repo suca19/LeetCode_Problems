@@ -12,5 +12,5 @@ All the problems that you find on this list were solved using the format javaScr
 * [Roman to Integer](https://gist.github.com/suca19/43aa447da83bd51190d8709e0dcdba18)
 * [Longest Common Prefix](https://gist.github.com/suca19/3910e9b896241f5df0af326a3ed75972)
 * [Valid Parenthesis](https://gist.github.com/251d0b765a9aa46a9d20be16181ae816.git)
-* [Merge two sorted list] (https://gist.github.com/suca19/91d35434ef11af20447a7c490a188793)
+* [Merge two sorted list](https://gist.github.com/suca19/91d35434ef11af20447a7c490a188793)
 * 
