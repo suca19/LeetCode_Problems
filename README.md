@@ -14,3 +14,4 @@ All the problems that you find on this list were solved using the format javaScr
 * [Valid Parenthesis](https://gist.github.com/251d0b765a9aa46a9d20be16181ae816.git)
 * [Merge two sorted list](https://gist.github.com/suca19/91d35434ef11af20447a7c490a188793)
 * [Remove Duplicates from Sorted Array](https://gist.github.com/7d53b088709be3d28c4ae1334efbb3b0.git)
+* [Remove Element](https://gist.github.com/022a38ae512da6e321bc28c0842c6eb1.git)
