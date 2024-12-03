@@ -17,3 +17,5 @@ All the problems that you find on this list were solved using the format javaScr
 * [Remove Element](https://gist.github.com/022a38ae512da6e321bc28c0842c6eb1.git)
 * []()
 * []()
+* []()
+* []()
