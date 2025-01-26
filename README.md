@@ -23,5 +23,10 @@ All the problems that you find on this list were solved using the format javaScr
 * []()
 * []()
 * []()
-
-* 
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
