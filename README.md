@@ -4,7 +4,7 @@ Hello there,
 
 This repository is made for learning purposes.
 
-All the problems that you find on this list were solved using the format javaScript and typeScript.
+All the problems that you find on this list were solved using the format, javaScript and typeScript.
 
 
 * [Two Sum](https://gist.github.com/suca19/2f95a2958168c6ce01e91061cbe3fa14)
@@ -16,7 +16,9 @@ All the problems that you find on this list were solved using the format javaScr
 * [Remove Duplicates from Sorted Array](https://gist.github.com/7d53b088709be3d28c4ae1334efbb3b0.git)
 * [Remove Element](https://gist.github.com/022a38ae512da6e321bc28c0842c6eb1.git)
 * [Find the Index of the First Occurrence in a String](https://gist.github.com/suca19/7d0206829326ac591b7c130ea39fd1fb.git)
-
+* []()
+* []()
+* []()
 
 * []()
 * []()
