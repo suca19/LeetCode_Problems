@@ -17,7 +17,7 @@ All the problems that you find on this list were solved using the format, javaSc
 * [Remove Element](https://gist.github.com/022a38ae512da6e321bc28c0842c6eb1.git)
 * [Find the Index of the First Occurrence in a String](https://gist.github.com/suca19/7d0206829326ac591b7c130ea39fd1fb.git)
 * [Add two Numbers](https://gist.github.com/suca19/7061b88c5de6fcb6f62b1fca9391a5ab)
-* []()
+* [Find the Index of the First Occurrence in a String]()
 * []()
 
 * []()
