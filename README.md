@@ -18,7 +18,7 @@ All the problems that you find on this list were solved using the format, javaSc
 * [Find the Index of the First Occurrence in a String](https://gist.github.com/suca19/7d0206829326ac591b7c130ea39fd1fb.git)
 * [Add two Numbers](https://gist.github.com/suca19/7061b88c5de6fcb6f62b1fca9391a5ab)
 * [Find the Index of the First Occurrence in a String](https://gist.github.com/b57bd043b02249aa76f919477a531702.git)
-* []()
+* [Search Insert Position](https://gist.github.com/suca19/ed94b8f9c61b3fe44c639f2df29171ef)
 * []()
 * []()
 * []()
